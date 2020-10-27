@@ -1,2 +1,2 @@
 # HelloArsh
-This reopsitory contains "Hello Arsh!" in my favorite languages.
+This reopsitory contains "Hello Arsh!" in some of my favorite languages.
