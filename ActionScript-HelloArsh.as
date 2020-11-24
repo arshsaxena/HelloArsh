@@ -12,5 +12,5 @@ tf.size = 32;
 tf.bold = true;
 
 message.defaultTextFormat = tf;
-message.text = "Hello Arsj!";
+message.text = "Hello Arsh!";
 MovieClip(root).addChild(message);
